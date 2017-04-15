@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main()
+{
+	printf("Are you ready.  Giiiiit\n");;
+
+	return 0;
+}
